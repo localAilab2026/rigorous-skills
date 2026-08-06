@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Security Engineering"
+  short_description: "Threat-model and harden software changes"
+  default_prompt: "Use Rigorous Security Engineering to complete this task with requirement-derived verification and evidence-supported conclusions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous DevOps and Delivery"
+  short_description: "Build reproducible safe deployment workflows"
+  default_prompt: "Use Rigorous DevOps and Delivery to complete this task with requirement-derived verification and evidence-supported conclusions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Concurrency"
+  short_description: "Prove thread-safe and asynchronous behavior"
+  default_prompt: "Use Rigorous Concurrency to complete this task with requirement-derived verification and evidence-supported conclusions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Distributed Systems"
+  short_description: "Handle retries, duplicates, messaging, and partial failure"
+  default_prompt: "Use Rigorous Distributed Systems to complete this task with requirement-derived verification and evidence-supported conclusions."

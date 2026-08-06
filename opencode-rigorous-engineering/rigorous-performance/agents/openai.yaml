@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Performance Engineering"
+  short_description: "Profile and optimize without breaking correctness"
+  default_prompt: "Use Rigorous Performance Engineering to complete this task with requirement-derived verification and evidence-supported conclusions."

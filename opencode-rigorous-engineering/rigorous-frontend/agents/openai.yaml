@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Frontend Engineering"
+  short_description: "Build resilient accessible user interfaces"
+  default_prompt: "Use Rigorous Frontend Engineering to complete this task with requirement-derived verification and evidence-supported conclusions."

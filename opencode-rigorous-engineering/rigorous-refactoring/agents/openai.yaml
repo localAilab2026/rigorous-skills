@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Refactoring"
+  short_description: "Change structure without accidental behavior drift"
+  default_prompt: "Use Rigorous Refactoring to complete this task with requirement-derived verification and evidence-supported conclusions."

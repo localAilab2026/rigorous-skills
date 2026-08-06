@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Code Review"
+  short_description: "Audit code as untrusted evidence"
+  default_prompt: "Use Rigorous Code Review to complete this task with requirement-derived verification and evidence-supported conclusions."

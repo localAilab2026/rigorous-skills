@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Data and Persistence"
+  short_description: "Protect data integrity across storage and processing"
+  default_prompt: "Use Rigorous Data and Persistence to complete this task with requirement-derived verification and evidence-supported conclusions."

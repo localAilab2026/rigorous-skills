@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous API Engineering"
+  short_description: "Build and review reliable HTTP APIs and clients"
+  default_prompt: "Use Rigorous API Engineering to complete this task with requirement-derived verification and evidence-supported conclusions."

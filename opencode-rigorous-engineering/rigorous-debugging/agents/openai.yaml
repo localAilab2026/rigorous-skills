@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Debugging"
+  short_description: "Reproduce, isolate, and fix root causes"
+  default_prompt: "Use Rigorous Debugging to complete this task with requirement-derived verification and evidence-supported conclusions."

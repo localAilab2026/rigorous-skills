@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Feature Implementation"
+  short_description: "Implement complete repository-aware features"
+  default_prompt: "Use Rigorous Feature Implementation to complete this task with requirement-derived verification and evidence-supported conclusions."

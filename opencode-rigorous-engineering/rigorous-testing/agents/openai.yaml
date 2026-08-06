@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Testing"
+  short_description: "Design tests that can disprove implementations"
+  default_prompt: "Use Rigorous Testing to complete this task with requirement-derived verification and evidence-supported conclusions."

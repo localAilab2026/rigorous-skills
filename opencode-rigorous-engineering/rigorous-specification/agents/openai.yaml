@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Specification"
+  short_description: "Turn requests into testable engineering contracts"
+  default_prompt: "Use Rigorous Specification to complete this task with requirement-derived verification and evidence-supported conclusions."
